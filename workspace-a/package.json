@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/koooge/npm-workspaces-2versions/issues"
   },
-  "homepage": "https://github.com/koooge/npm-workspaces-2versions#readme"
+  "homepage": "https://github.com/koooge/npm-workspaces-2versions#readme",
+  "dependencies": {
+    "react-router-dom": "^6.3.0"
+  }
 }
