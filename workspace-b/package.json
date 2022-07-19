@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/koooge/npm-workspaces-2versions/issues"
   },
-  "homepage": "https://github.com/koooge/npm-workspaces-2versions#readme"
+  "homepage": "https://github.com/koooge/npm-workspaces-2versions#readme",
+  "dependencies": {
+    "react-router-dom": "^5.3.3"
+  }
 }
